@@ -9,11 +9,11 @@ package br.edu.mercurio;
  */
 public class Principal {
 
-	/**
+	/** Uma reciclagem sobre os principais conceitos da orientação objeto
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Método principal 
 
 	}
 
