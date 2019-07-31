@@ -15,6 +15,19 @@ public class Principal {
 	public static void main(String[] args) {
 		// Método principal 
 
+		
+for (String argumento : args) {
+
+	
+	System.out.println(argumento);
+	
+}
+		
+		
+		
+		
+
 	}
 
 }
+
